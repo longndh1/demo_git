@@ -2,4 +2,4 @@ This is simple file from Tanaka.
 This is simple text from wakui to do his task.
 This is simple text from Long to do his task (make it beautiful).
 This is simple text from juhee to do his task.
-This is simple text from kayo to do his task.
+This is simple text from kayo to do his task.--Git flow (process)--Do you have any Question about this ?Collaborate with your teammate.Wakui task is read file CSV , then save data to database.Long tasl is also read file CSV, then upload to blob storage.Long implement read CSV function -> git push to repo . -> then do his task ( upload to blob)Wakui pull from repo -> save data to database.-----------------------HavThey store Git Process on their repository on Azure.
